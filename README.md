@@ -18,4 +18,4 @@ screenshot of the website:
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 
-This ebsite is available at - https://negatseg.github.io/urban-octo-telegram/
+This website is available at - https://negatseg.github.io/urban-octo-telegram/
